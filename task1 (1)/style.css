@@ -1,0 +1,25 @@
+.image-example{
+border-radius: 50%;
+border: 5px solid yellow;
+box-shadow: 5px 5px;
+cursor: pointer;
+}
+
+.code-academy span{
+font-family: 'Permanent Marker', cursive;
+font-size: 300%;
+color: blue;
+background-color: green;
+padding-right: 10px;
+}
+
+.item{
+  color: gold;
+}
+#menu {
+text-align:center;
+}
+
+.description{
+  font-family: 'Pacifico', cursive;
+}
